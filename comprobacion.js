@@ -1,1 +1,1 @@
-alert("comprobacion exitosa");
+alert("comprobacion exitosa completa");
